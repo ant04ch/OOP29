@@ -1,0 +1,11 @@
+C:\Users\lox22\source\repos\OOP29\OOP29\bin\Debug\OOP29.exe.config
+C:\Users\lox22\source\repos\OOP29\OOP29\bin\Debug\OOP29.exe
+C:\Users\lox22\source\repos\OOP29\OOP29\bin\Debug\OOP29.pdb
+C:\Users\lox22\source\repos\OOP29\OOP29\obj\Debug\OOP29.csproj.AssemblyReference.cache
+C:\Users\lox22\source\repos\OOP29\OOP29\obj\Debug\OOP29.csproj.SuggestedBindingRedirects.cache
+C:\Users\lox22\source\repos\OOP29\OOP29\obj\Debug\OOP29.Properties.Resources.resources
+C:\Users\lox22\source\repos\OOP29\OOP29\obj\Debug\OOP29.csproj.GenerateResource.cache
+C:\Users\lox22\source\repos\OOP29\OOP29\obj\Debug\OOP29.csproj.CoreCompileInputs.cache
+C:\Users\lox22\source\repos\OOP29\OOP29\obj\Debug\OOP29.exe
+C:\Users\lox22\source\repos\OOP29\OOP29\obj\Debug\OOP29.pdb
+C:\Users\lox22\source\repos\OOP29\OOP29\obj\Debug\OOP29.Form2.resources
